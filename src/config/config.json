@@ -1,0 +1,26 @@
+{
+  "site": {
+    "title": "葛佳惠",
+    "base_url": "https://gjhhegjh.github.io",
+    "base_path": "/",
+    "favicon": "/favicon.png",
+    "logoLight": "/logoLight.png",
+    "logoDark": "/logoDark.png",
+    "lang": "zh-CN",
+    "description": "浙江大学能源与环境系统工程 · 课程笔记与学习记录",
+    "pageSize": 6
+  },
+  "features": {
+    "youtube": false,
+    "dark_mode": true
+  },
+  "metadata": {
+    "meta_author": "葛佳惠",
+    "meta_description": "浙江大学能源与环境系统工程专业在读，这里是我的课程笔记与学习记录。"
+  },
+  "author": {
+    "name": "葛佳惠",
+    "avatar": "https://s3.amazonaws.com/gndx.dev/gndx-astro-avatar.png",
+    "bio": "浙江大学能源与环境系统工程专业在读。上课时潦草记的东西过两周就看不懂了，所以趁热整理一遍 —— 这里放的是这些笔记。"
+  }
+}
