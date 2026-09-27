@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "葛佳惠",
+    "title": "Jiahui Ge",
     "base_url": "https://gjhhegjh.github.io",
     "base_path": "/",
     "favicon": "/favicon.png",
@@ -15,12 +15,12 @@
     "dark_mode": true
   },
   "metadata": {
-    "meta_author": "葛佳惠",
-    "meta_description": "浙江大学能源与环境系统工程专业在读，这里是我的课程笔记与学习记录。"
+    "meta_author": "Jiahui Ge",
+    "meta_description": "zju 能源专业在读，记录课程笔记与生活。"
   },
   "author": {
-    "name": "葛佳惠",
+    "name": "Jiahui Ge",
     "avatar": "/avatar.jpg",
-    "bio": "浙江大学能源与环境系统工程专业在读。上课时潦草记的东西过两周就看不懂了，所以趁热整理一遍 —— 这里放的是这些笔记。"
+    "bio": "zju 能源专业在读，记录课程笔记与生活"
   }
 }
